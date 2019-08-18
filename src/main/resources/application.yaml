@@ -1,0 +1,17 @@
+#security:
+#  basic:
+#    enabled: false
+##
+##  oauth2:
+##    resource:
+##      jwt:
+##        key-value: |
+##          -----BEGIN PUBLIC KEY-----
+##          MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoFsMVoWcGBtNJ2GYcefd
+##          TPXJy5zy9E0ly1oKINDpNoFSW/GyHWTc8UgvwMKWbz0oMvcphIHpeqCL9/uTZA0d
+##          aMf671oc6IPEsxja+oG9XxWFBJ1frazO44YMsH/TFAi4E0kzDG0li+r25JO9JTmm
+##          +2MXIoM0NGcbafO1vwHobyjpkP0SOmx77IgTLORTMEeuiO74bqeGBy9jfortB+TJ
+##          oid+BZ8qglgYXDVma2eBFppJRTyGo8vS0btdMWa/hiLhimz7l4+ql1oPzof2zW76
+##          neT1cmLxsZENn2aemndRqD8dTUXTo/JPwudrJiPBNIoM7TRO6YjHJlNo/RWu/0Jg
+##          dQIDAQAB
+##          -----END PUBLIC KEY-----
